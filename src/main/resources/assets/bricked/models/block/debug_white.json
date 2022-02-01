@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bricked:blocks/debug_fuck",
+    "up": "bricked:blocks/debug_fuck",
+    "north": "bricked:blocks/debug_fuck",
+    "east": "bricked:blocks/debug_fuck",
+    "south": "bricked:blocks/debug_fuck",
+    "west": "bricked:blocks/debug_fuck",
+    "particle": "bricked:blocks/debug_fuck"
+  }
+}

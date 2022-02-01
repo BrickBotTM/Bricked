@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bricked:block/debug_white"
+    }
+  }
+}
